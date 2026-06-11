@@ -1,4 +1,4 @@
-## Code developed for the paper Evidence for the First Globular Cluster Stellar Stream beyond the Milky Way (Holm et al., 2026)
+### Code underlying the results of the paper "Evidence for the First Globular Cluster Stellar Stream beyond the Milky Way" (Holm et al., 2026)
 
 Data_analysis: notebooks containing different parts of the data analysis, sorted by the end figure they produce (some have several). 
 
